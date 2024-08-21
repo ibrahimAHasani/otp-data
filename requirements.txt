@@ -1,1 +1,9 @@
-
+streamlit
+pandas
+phonenumbers
+numpy
+pycountry
+matplotlib
+seaborn
+plotly
+openpyxl  # Required for reading Excel files
